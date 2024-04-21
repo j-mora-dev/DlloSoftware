@@ -1,13 +1,20 @@
-## Prerequisites
+## CONCEPTOS IMPORTANTES DE PROGRAMACION
 
-- Proporciona una forma segura de definir una API mediante interfaces C#.
+- Programacion orientada a pbjetos
 
-- Genera una implementación concreta de una interfaz API en tiempo de ejecución.
+- ciclos(for-foreach-while)
 
-- Permite a los desarrolladores definir los tipos de entrada y salida esperados para cada punto final de API.
+- tipos de operadores.
 
-- Admite serialización y deserialización automática de datos.
 
-- Incluye soporte para interceptores, lo que permite modificar o registrar solicitudes y respuestas HTTP.
+## BASE DE DATOS
 
-- Reduce la cantidad de código repetitivo necesario para trabajar con una API.
+- TIPOS Base datos.
+
+- NORMALIZACION
+
+- ## C#
+
+- Clases, obejtos, herencia, poliformismo
+
+- lo de nuevo de c#
